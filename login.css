@@ -1,0 +1,50 @@
+body {
+    background-image: url("./images/color.png")
+}
+.login_wrapper {
+    background: rgba(240,248,255,0.7);
+    margin:100px 300px;
+    padding:50px;
+    height:300px;
+    border-radius:25px;
+}
+.title_wrapper {
+    margin-bottom:80px;
+}
+.title {
+    text-align: center;
+}
+.id_pw_btn_wrapper {
+    margin-left:20%;
+}
+.id {
+    margin-bottom:10px;
+}
+.id span {
+    font-size:20px;
+    width:40px;
+    display:inline-block;
+}
+.id input {
+    height:25px;
+    border: 1px solid gray;
+    border-radius:5px;
+}
+.pw {
+    margin-bottom:50px;
+}
+.pw span {
+    font-size:20px;
+    width:40px;
+    display:inline-block;
+}
+.pw input {
+    height:25px;
+    border: 1px solid gray;
+    border-radius:5px;
+}
+.btn {
+    width:100px;
+    height:25px;
+    margin-left:45%;
+}
